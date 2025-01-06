@@ -17,7 +17,7 @@ This repository contains the code and resources used for numerical experiments c
 - **[Usage](#usage)**  
   - [Experiment Setup](#experiment-setup)  
 - **[Example Results](#example-results)**  
-  - [Visualization (2x2 Grid)](#visualization-2x2-grid)  
+  - [Visualization (2x2 Grid)](#visualization)  
   - [Terminal Output](#terminal-output)  
   - [Generated Folder Structure](#generated-folder-structure)  
 - **[Thesis and References](#thesis-and-references)**  
@@ -167,7 +167,7 @@ Additionally, a **global summary file** (`experiment_summary.xlsx`) is maintaine
 
 ## Example Results
 
-### Visualization (2x2 Grid)
+### Visualization
 
 Below are sample visualizations generated during training:
 
