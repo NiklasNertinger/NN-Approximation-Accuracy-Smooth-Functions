@@ -17,7 +17,7 @@ This repository contains the code and resources used for numerical experiments c
 - **[Usage](#usage)**  
   - [Experiment Setup](#experiment-setup)  
 - **[Example Results](#example-results)**  
-  - [Visualization (2x2 Grid)](#visualization)  
+  - [Visualization](#visualization)  
   - [Terminal Output](#terminal-output)  
   - [Generated Folder Structure](#generated-folder-structure)  
 - **[Thesis and References](#thesis-and-references)**  
