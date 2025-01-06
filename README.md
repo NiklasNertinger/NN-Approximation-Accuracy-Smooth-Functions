@@ -195,7 +195,7 @@ The folder structure for storing results is shown below:
 
 ## Thesis and References
 
-The numerical experiments are detailed in my Bachelor’s thesis:  
+The numerical experiments are detailed in my Bachelor’s thesis (in German):  
 - **[Bachelor Thesis (PDF)](./Bachelor_Thesis.pdf)**  
 
 ### Key References
