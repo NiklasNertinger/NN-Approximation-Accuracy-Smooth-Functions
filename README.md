@@ -196,7 +196,7 @@ The folder structure for storing results is shown below:
 ## Thesis and References
 
 The numerical experiments are detailed in my Bachelor’s thesis (in German):  
-- **[Bachelor Thesis (PDF)](./Bachelor_Thesis.pdf)**  
+- **[Bachelor Thesis (PDF)](./Bachelors_Thesis.pdf)**  
 
 ### Key References
 - Petersen, P., & Voigtlaender, F. (2018). *Optimal approximation of piecewise smooth functions using deep ReLU neural networks*. [arXiv:1709.05289](https://arxiv.org/abs/1709.05289)  
